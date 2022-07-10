@@ -9,4 +9,4 @@
 
 ✔ 1차 TIL 작성을 [Tistory 블로그](https://ohju.tistory.com/category/%EB%B0%9C%EC%A0%84%EC%86%8C/%5BT.I.L%5D%20%3A%20Today%20I%20Learned)에서 `21.10.26 ~ 22.07.09`동안 꾸준하게 265일을 이어나갔습니다.
 
-✔ 2차 TIL 작성일 GitHub 해당 저장소에서 `22.07.10`부터 꾸준히 이어나갑니다.
+✔ 2차 TIL 작성 GitHub 해당 저장소에서 `22.07.10`부터 꾸준히 이어나갑니다.
